@@ -173,7 +173,7 @@ img.img-fluid {}
 
 @media(max-width: 770px) {
 	img.d-block {
-		height: 60vh !important;
+		height: 50vh !important;
 		width: 100vw !important;
 	}
 }
